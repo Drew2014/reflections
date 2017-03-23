@@ -1,0 +1,24 @@
+Seeing a bug--
+I felt that once I understood what I was reading (aka how it was presented) it was pretty easy to do so.  The differences were very noticeable.
+Reminder..   cd downloads (enter) FC (file compare) then two files to compare.
+
+Comparing two files and having access to old ones can relieve the issue of trying out something new, failing, and then going back having to make all the changes back to the original.  This is a good way to try new things without the hassle of redoing everything you have done just because it didn't work.
+
+Git - commits-a new version made each time
+Git - diff-takes two commits and compares them
+
+Commits should not be too large or too small.
+Commits should be when a logical change is made like a typo or color change.
+
+Commits manually saving can identify changes.  After numerous changes, you can forget what you have changed.  With autosave, it will update too many times and be either too large or too big.
+
+Repository-collection of files
+
+Git log --stat  shows how many changes
+Some changes might effect multiple files in your repository.
+Git log shows commits
+Git config --global color.ui auto - shows color in changes
+q is to exit out of git log
+Don't forget the log is used to scroll down with the arrows.
+Git diff compares two commits 
+Version control gives you options if changes are made and breaks them.  You can always revert back to the old. Trial and Error

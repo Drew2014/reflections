@@ -1,0 +1,5 @@
+Git init - create a new respository
+Git status - examine the files within that repository
+We initial the respository so they can be tracked.
+Git add - adds to repository that is created
+This adds it to the staging area.
